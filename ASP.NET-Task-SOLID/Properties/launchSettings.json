@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ASP.NET-Task-SOLID": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
